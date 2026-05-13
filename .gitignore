@@ -36,7 +36,6 @@ lerna-debug.log*
 
 .data
 /files
-.env
 /ormconfig.json
 .codegpt
 
@@ -48,3 +47,4 @@ lerna-debug.log*
 
 # Local secrets (RSA keys for dev/testing)
 /.secrets/
+config.bat
